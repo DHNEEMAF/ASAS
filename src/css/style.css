@@ -934,7 +934,7 @@ body{
 
     .mainContiner {
         position: absolute;
-        left: -300px;
+        left: -200px;
         top: -20px;
     }
 
@@ -942,11 +942,14 @@ body{
         width: 70px;
         height: 130px;
         font-size: 11px;
+        position: absolute;
+        top: 500px;
+        left: 300px;
     }
 
     .continer2 {
         position: absolute;
-        left: 380px;
+        left: 400px;
         width: 70px;
         height: 130px;
         font-size: 11px;
@@ -954,7 +957,7 @@ body{
 
     .continer3 {
         position: absolute;
-        left: 460px;
+        left: 500px;
         width: 70px;
         height: 130px;
         font-size: 11px;
@@ -962,26 +965,29 @@ body{
 
     .continer4 {
         position: absolute;
-        left: 540px;
+        left: 300px;
         width: 70px;
         height: 130px;
         font-size: 11px;
+        top: 800px;
     }
 
     .continer5 {
         position: absolute;
-        left: 620px;
+        left: 400px;
         width: 70px;
         height: 130px;
         font-size: 11px;
+        top: 800px;
     }
 
     .continer6 {
         position: absolute;
-        left: 700px;
+        left: 500px;
         width: 70px;
         height: 130px;
         font-size: 11px;
+        top: 800px;
     }
 
     .box1, .box2, .box3, .box4, .box5, .box6 {
@@ -1015,6 +1021,6 @@ body{
     
     .signUp {
         position: absolute;
-        right: 0px;
+        right: 10px;
     }
 }
