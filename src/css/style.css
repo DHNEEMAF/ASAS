@@ -943,7 +943,7 @@ body{
         height: 130px;
         font-size: 11px;
         position: absolute;
-        top: 500px;
+        top: 470px;
         left: 300px;
     }
 
@@ -953,6 +953,7 @@ body{
         width: 70px;
         height: 130px;
         font-size: 11px;
+        top: 470px;
     }
 
     .continer3 {
@@ -961,6 +962,7 @@ body{
         width: 70px;
         height: 130px;
         font-size: 11px;
+        top: 470px;
     }
 
     .continer4 {
@@ -969,7 +971,7 @@ body{
         width: 70px;
         height: 130px;
         font-size: 11px;
-        top: 720px;
+        top: 670px;
     }
 
     .continer5 {
@@ -978,7 +980,7 @@ body{
         width: 70px;
         height: 130px;
         font-size: 11px;
-        top: 720px;
+        top: 670x;
     }
 
     .continer6 {
@@ -987,7 +989,7 @@ body{
         width: 70px;
         height: 130px;
         font-size: 11px;
-        top: 720px;
+        top: 670x;
     }
 
     .box1, .box2, .box3, .box4, .box5, .box6 {
@@ -997,8 +999,8 @@ body{
 
     .more {
         position: absolute;
-        left: 300px;
-        width: 130;
+        left: 290px;
+        width: 110px;
         height: 50px;
         font-size: 14;
         top: 900px;
