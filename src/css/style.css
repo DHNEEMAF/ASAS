@@ -971,7 +971,7 @@ body{
         width: 70px;
         height: 130px;
         font-size: 11px;
-        top: 670px;
+        top: 640px;
     }
 
     .continer5 {
@@ -980,7 +980,7 @@ body{
         width: 70px;
         height: 130px;
         font-size: 11px;
-        top: 670x;
+        top: 640px;
     }
 
     .continer6 {
@@ -989,7 +989,7 @@ body{
         width: 70px;
         height: 130px;
         font-size: 11px;
-        top: 670x;
+        top: 640Px;
     }
 
     .box1, .box2, .box3, .box4, .box5, .box6 {
@@ -999,8 +999,8 @@ body{
 
     .more {
         position: absolute;
-        left: 290px;
-        width: 110px;
+        left: 280px;
+        width: 130px;
         height: 50px;
         font-size: 14;
         top: 900px;
