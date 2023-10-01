@@ -934,7 +934,7 @@ body{
 
     .mainContiner {
         position: absolute;
-        left: -290px;
+        left: -300px;
         top: -20px;
     }
 
@@ -1015,7 +1015,6 @@ body{
     
     .signUp {
         position: absolute;
-        right: 50px;
-        top: 40px;
+        right: 0px;
     }
 }
