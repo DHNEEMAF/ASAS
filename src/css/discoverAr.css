@@ -1,0 +1,66 @@
+body {
+    background-color: #fff;
+}
+
+.logo {
+    position: absolute;
+    right: 100px;
+}
+
+.main-menu a {
+    text-decoration: none;
+}
+
+.menu1, .menu2, .menu3, .menu4, .menu5 {
+    font-weight: bold;
+    color: rgb(22, 69, 130);
+}
+
+.menu1:hover, .menu2:hover, .menu3:hover, .menu4:hover, .menu5:hover {
+    color: rgb(42, 134, 255);
+}
+.menu1 {
+    position: absolute;
+    right: 600px;
+    top: 50px;
+}
+
+.menu2 {
+    position: absolute;
+    right: 800px;
+    top: 50px;
+}
+
+.menu3 {
+    position: absolute;
+    right: 1000px;
+    top: 50px;
+}
+
+.menu4 {
+    position: absolute;
+    right: 1200px;
+    top: 50px;
+}
+
+.menu5 {
+    position: absolute;
+    right: 1450px;
+    top: 50px;
+}
+
+.login {
+    background-color: rgb(254, 205, 8);
+    width: 100px;
+    border-radius: 5px;
+    position: absolute;
+    right: 1750px;
+    top: 50px;
+    height: 50px;
+}
+
+.menu6 {
+    color: rgb(0, 0, 0);
+    margin-top: 20px;
+    margin-left: 12px;
+}
