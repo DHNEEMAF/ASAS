@@ -435,3 +435,30 @@ body {
     top: 260px;
     left: 750px;
 }
+
+@media(max-width: 1400px) {
+    .logo {
+        right: 20px;
+        top: 20px;
+    }
+
+    .menu1 {
+        right: 450px;
+    }
+
+    .menu2 {
+        right: 600px;
+    }
+
+    .menu3 {
+        right: 750px;
+    }
+
+    .menu4 {
+        right: 900px;
+    }
+
+    .logo {
+        right: 1140px;
+    }
+}
